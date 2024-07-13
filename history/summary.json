@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.idispatch.com.ico",
     "slug": "idispatch",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 290,
-    "timeDay": 272,
-    "timeWeek": 324,
-    "timeMonth": 276,
-    "timeYear": 290,
+    "uptimeYear": "99.98%",
+    "time": 288,
+    "timeDay": 156,
+    "timeWeek": 289,
+    "timeMonth": 273,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2024-06-14": 19
     }
