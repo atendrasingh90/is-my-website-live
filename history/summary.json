@@ -4,19 +4,19 @@
     "url": "https://www.idispatch.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.idispatch.com.ico",
     "slug": "idispatch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 327,
-    "timeDay": 193,
-    "timeWeek": 227,
+    "timeDay": 254,
+    "timeWeek": 238,
     "timeMonth": 292,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-03-01": 0,
+      "2025-03-01": 9,
       "2024-06-14": 19
     }
   }
