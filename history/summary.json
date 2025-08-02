@@ -4,17 +4,19 @@
     "url": "https://www.idispatch.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.idispatch.com.ico",
     "slug": "idispatch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 244,
-    "timeWeek": 298,
-    "timeMonth": 330,
-    "timeYear": 331,
-    "dailyMinutesDown": {}
+    "time": 325,
+    "timeDay": 356,
+    "timeWeek": 329,
+    "timeMonth": 338,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2025-08-02": 8
+    }
   }
 ]
