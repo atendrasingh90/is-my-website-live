@@ -4,18 +4,19 @@
     "url": "https://www.idispatch.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.idispatch.com.ico",
     "slug": "idispatch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 177,
-    "timeWeek": 284,
-    "timeMonth": 317,
+    "timeDay": 227,
+    "timeWeek": 283,
+    "timeMonth": 316,
     "timeYear": 339,
     "dailyMinutesDown": {
+      "2025-10-19": 0,
       "2025-08-16": 15
     }
   }
